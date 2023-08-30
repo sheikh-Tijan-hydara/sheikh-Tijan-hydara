@@ -23,8 +23,8 @@ Welcome to my GitHub profile! I'm passionate about software engineering and crea
 
 Here are some projects I've worked on:
 
-- 🚀 [Project Name 1][(https://github.com/yourusername/project1](https://github-finder-pink-one.vercel.app/)) - A brief description of the project.
-- 🌟 [Project Name 2]([https://github.com/yourusername/project2](https://projects-1.vercel.app/)) - Another interesting project you've worked on.
+- 🚀 [Project Name 1][(https://github-finder-pink-one.vercel.app/) - 
+- 🌟 [Project Name 2](https://projects-1.vercel.app/) 
 
 Feel free to explore my repositories to see more of my work.
 
@@ -33,7 +33,7 @@ Feel free to explore my repositories to see more of my work.
 📬 Feel free to reach out if you'd like to collaborate on a project, discuss technology, or just have a chat!
 
 - [LinkedIn](https://www.linkedin.com/in/sheikh-tijan-hydara-60602621a/)
-- [Twitter]((https://twitter.com/TijanAziz))
+- [Twitter](https://twitter.com/TijanAziz)
 
 Looking forward to connecting with fellow developers and creators!
 
