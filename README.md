@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm passionate about software engineering and crea
 
 ## Skills
 
-- **Front-End Development:** JavaScript, React, Vue
+- **Front-End Development:** Figma | JavaScript, React, Vue
 - **Mobile App Development:** React Native | Flutter
 - **Version Control:** Git
 - **Problem Solving:** Turning ideas into practical, elegant solutions
